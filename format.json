@@ -1,0 +1,30 @@
+{
+  "majster": {
+    "wave": {
+      "payments": ["crypto", "paypal", "stripe"],
+      "1": {
+        "price": "2.99",
+        "url": "https://yourstore.com/purchase/wave/1day"
+      },
+      "7": {
+        "price": "8.99",
+        "url": "https://yourstore.com/purchase/wave/7days"
+      },
+      "30": {
+        "price": "19.99",
+        "url": "https://yourstore.com/purchase/wave/30days"
+      }
+    },
+    "fluxus": {
+      "payments": ["crypto", "cashapp"],
+      "1": {
+        "price": "1.99",
+        "url": "https://yourstore.com/purchase/fluxus/daily"
+      },
+      "7": {
+        "price": "6.99",
+        "url": "https://yourstore.com/purchase/fluxus/weekly"
+      }
+    }
+  }
+}
