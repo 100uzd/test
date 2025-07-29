@@ -3,7 +3,7 @@
     "wave": {
       "payments": ["crypto", "paypal", "stripe"],
       "1": {
-        "price": "2.79",
+        "price": "1.79",
         "url": "https://yourstore.com/purchase/wave/1day"
       },
       "7": {
