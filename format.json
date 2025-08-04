@@ -7,6 +7,10 @@
         "price": "1.79",
         "url": "https://yourstore.com/purchase/wave/1day"
       },
+      "5": {
+        "price": "1.79",
+        "url": "https://yourstore.com/purchase/wave/1day"
+      },
       "30": {
         "price": "4.99",
         "url": "https://yourstore.com/purchase/wave/30days"
