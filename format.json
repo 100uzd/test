@@ -14,7 +14,7 @@
       "365": {
         "price": "2.99",
         "url": "https://yourstore.com/purchase/wave/30days"
-      },
+      }
     },
     "fluxus": {
       "payments": ["crypto", "cashapp"],
