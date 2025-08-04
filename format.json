@@ -10,10 +10,6 @@
       "30": {
         "price": "4.99",
         "url": "https://yourstore.com/purchase/wave/30days"
-      },
-      "365": {
-        "price": "2.99",
-        "url": "https://yourstore.com/purchase/wave/30days"
       }
     },
     "fluxus": {
