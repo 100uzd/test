@@ -6,13 +6,29 @@
         "price": "2.99",
         "url": "https://yourstore.com/purchase/wave/1day"
       },
+      "3": {
+        "price": "8.99",
+        "url": "https://yourstore.com/purchase/wave/7days"
+      },
       "7": {
         "price": "8.99",
         "url": "https://yourstore.com/purchase/wave/7days"
       },
+      "8": {
+        "price": "8.99",
+        "url": "https://yourstore.com/purchase/wave/7days"
+      },
       "30": {
+        "price": "8.99",
+        "url": "https://yourstore.com/purchase/wave/7days"
+      },
+      "31": {
         "price": "19.99",
         "url": "https://yourstore.com/purchase/wave/30days"
+      },
+      "365": {
+        "price": "8.99",
+        "url": "https://yourstore.com/purchase/wave/7days"
       }
     },
     "fluxus": {
