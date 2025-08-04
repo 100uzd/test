@@ -6,11 +6,11 @@
         "price": "2.99",
         "url": "https://yourstore.com/purchase/wave/1day"
       },
-      "8": {
+      "5": {
         "price": "8.99",
         "url": "https://yourstore.com/purchase/wave/7days"
       },
-      "31": {
+      "30": {
         "price": "19.99",
         "url": "https://yourstore.com/purchase/wave/30days"
       }
