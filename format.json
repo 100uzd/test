@@ -7,6 +7,14 @@
         "price": "1.79",
         "url": "https://yourstore.com/purchase/wave/1day"
       },
+      "3": {
+        "price": "5.99",
+        "url": "https://yourstore.com/purchase/wave/30days"
+      }
+      "4": {
+        "price": "2.99",
+        "url": "https://yourstore.com/purchase/wave/30days"
+      }
       "5": {
         "price": "8.99",
         "url": "https://yourstore.com/purchase/wave/7days"
@@ -16,6 +24,18 @@
         "url": "https://yourstore.com/purchase/wave/7days"
       },
       "30": {
+        "price": "4.99",
+        "url": "https://yourstore.com/purchase/wave/30days"
+      },
+      "365": {
+        "price": "2.99",
+        "url": "https://yourstore.com/purchase/wave/30days"
+      },
+      "lifetime": {
+        "price": "7.99",
+        "url": "https://yourstore.com/purchase/wave/30days"
+      },
+      "32": {
         "price": "19.99",
         "url": "https://yourstore.com/purchase/wave/30days"
       }
